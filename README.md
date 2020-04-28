@@ -1,3 +1,11 @@
 # IIEC-Docker-Project-
 
-This is the readme
+PROJECT SPECIFICATIONS-
+
+TECHNOLOGIES USED-
+1.Redhat Linux 8.0
+2.Docker
+3.HTTP server
+4.HTML & CSS
+
+DESCRIPTION-
