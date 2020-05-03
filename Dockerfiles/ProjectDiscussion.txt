@@ -1,2 +1,0 @@
-In this file,I am going to discuss about the project I did for the docker training conducted by IIEC RISE 1.0 and taught by the very knowledgeable Mr.Vimal Daga.
-This project required more of social engineering part than coding part.So,I have decided to write down the steps for the same.
