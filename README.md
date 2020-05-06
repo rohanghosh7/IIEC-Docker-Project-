@@ -8,7 +8,7 @@ TECHNOLOGIES USED-
 3.HTTP server
 4.HTML & CSS
 
-DESCRIPTION- This project is a part of the docker training provided under IIEC RISE.
+DESCRIPTION- This project is a part of the docker training provided under IIEC RISE 1.0
 Project Mentor- Mr.Vimal Daga
 Training Duration- (February 2020-April 2020)  
 
